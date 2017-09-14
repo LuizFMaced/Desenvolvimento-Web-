@@ -1,0 +1,23 @@
+body {
+	font-style: italic;
+	font-family: Times New Roman;
+	font-size: 110%;
+	background-color: #F0F8FF;
+}
+
+p{
+	font-size: 125%;	
+}
+
+input{
+	border-radius: 5px;
+	font-style: italic;
+	font-family: Times New Roman;
+	background-color: white;
+	font-size: 100%;
+}
+
+div#rodape{
+	position:absolute; left:42%; top:880px; z-index: 1 
+}
+

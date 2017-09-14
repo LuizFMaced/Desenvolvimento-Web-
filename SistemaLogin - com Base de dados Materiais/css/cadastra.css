@@ -1,0 +1,35 @@
+body {
+	font-style: italic;
+	font-family: Times New Roman;
+	font-size: 125%;
+	background-color: #F0F8FF;
+}
+
+p{
+		
+}
+
+.img {
+	position:absolute; left:33px; top:5px;z-index: 1;
+}
+
+form{
+	position:absolute; left:80px; top:140px;
+}
+
+
+input{
+	border-radius: 5px;
+	font-style: italic;
+	font-family: Times New Roman;
+	background-color: white;
+		font-size: 90%;
+}
+
+input#sair{
+	position:absolute; left:180px; top:365px;
+}
+
+input#voltar{
+	position:absolute; left:20px; top:365px;
+}

@@ -1,0 +1,54 @@
+
+* {
+  margin:0;
+  padding:0;
+}
+body {
+	font-style: italic;
+	font-family: Times New Roman;
+	font-size: 100%;
+	background-color: #F0F8FF;
+}
+
+h1{
+	font-style: italic;
+	font-family: Times New Roman;
+	font-weight: 500;
+	position:absolute; left:250px; top:10px; z-index: 1;
+}
+
+.moldura {
+ position:absolute; left:150px; top:50px; z-index: 1;
+}
+
+.img {
+	position:absolute; left:33px; top:25px; z-index: 2;
+}
+
+#sombra{
+  width: 365px;
+  padding: 1px;
+  background-color: #363636;
+  box-shadow: 2px 2px 2px #363636;
+  -webkit-box-shadow: 2px 2px 2px #363636;
+  -moz-box-shadow: 2px 2px 2px #363636;
+}
+
+header  {
+  padding: 40px 0 50px;
+  background: rgb(41,41,41);
+  overflow: hidden;
+  position: relative;
+}
+
+input{
+	border-radius: 5px;
+	font-style: italic;
+	font-family: Times New Roman;
+	background-color: white;
+	font-size: 125%;
+}
+
+label{
+		font-size: 125%;
+}
